@@ -1,1 +1,10 @@
+Object：城市、引擎素材
+Planet：火星、地球、木星素材
+Spaceship&Planteoid：飞船、小行星素材
+Gravity&Shield：特效素材
 
+Sound：
+        1.bgm
+        2.hit
+        3.pushing
+        4.speeding
